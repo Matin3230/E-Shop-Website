@@ -59,28 +59,30 @@ The online shopping system provides an outstanding way of bringing sellers and c
 
 ●	Upload listings: for sellers
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
-**Homepage**
+**Outputs**
+
+**1. Homepage**
 
 ![IMG1](https://github.com/Matin3230/E-Shop-Website/assets/85051013/2c786024-6d10-44f7-ae72-84532471cfea)
 
 
-**Product Detail Page**
+**2. Product Detail Page**
 
 ![image](https://github.com/Matin3230/E-Shop-Website/assets/85051013/5e6bf0ce-ef80-4fe9-98d8-9c798f95de8f)
 
-**Cart**
+**3. Cart**
 
 ![IMG2](https://github.com/Matin3230/E-Shop-Website/assets/85051013/cd2624c7-641c-4072-a990-13a87248c528)
 
 
-**Admin Dashboard**
+**4. Admin Dashboard**
 
 ![image](https://github.com/Matin3230/E-Shop-Website/assets/85051013/f27fa293-60e2-4242-acef-f988e961a4be)
 
 
-**Placed Order Page**
+**5. Placed Order Page**
 
 ![image](https://github.com/Matin3230/E-Shop-Website/assets/85051013/2c933fe3-db6d-48f8-90ff-efcfd6425088)
 
