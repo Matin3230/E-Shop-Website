@@ -86,9 +86,4 @@ The online shopping system provides an outstanding way of bringing sellers and c
 
 ![image](https://github.com/Matin3230/E-Shop-Website/assets/85051013/2c933fe3-db6d-48f8-90ff-efcfd6425088)
 
-
-
-
-
-
-
+ 
